@@ -1,3 +1,3 @@
 FROM nginx
-MAINTAINER GIRI
+MAINTAINER Giri
 COPY index.html /usr/share/nginx/html
