@@ -1,3 +1,3 @@
 FROM nginx
-MAINTAINER GIRIDHAR
+MAINTAINER GIRI
 COPY index.html /usr/share/nginx/html
